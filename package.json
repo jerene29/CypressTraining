@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "cypress": "^13.16.1"
+    "cypress": "^13.17.0"
   },
   "name": "cypress-project-jerene",
   "version": "1.0.0",
